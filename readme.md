@@ -10,7 +10,7 @@ This is an implementation of the paper "Memory-Efficient Bijective Parameterizat
 * [glog](https://github.com/google/glog) optional for Output information
 * [Qt](http://download.qt.io/archive/qt/) optional for GUI
 
-### usage
+### Usage
 
 ```
 exe <mesh_file: *.obj> <method_type: our/outofcore/amgcl> <init_type: tutte/partition>
